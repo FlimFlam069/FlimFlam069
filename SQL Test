@@ -1,0 +1,7 @@
+CREATE TABLE test (id INTEGER PRIMARY KEY, name TEXT, route INTEGER, job_assignment TEXT)
+  INSERT (1, 'Bob', 5, 'PC Tech')
+  INSERT (2, 'Mike', 2, 'PC Tech')
+  INSERT (3, 'Steve', 53, 'TC Tech')
+  );
+  
+  SELECT * FROM test;
